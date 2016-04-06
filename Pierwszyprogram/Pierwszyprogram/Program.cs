@@ -12,7 +12,7 @@ namespace Pierwszyprogram
         {
             //komentarz lalallalalala
             //komentarz dupa
-            //sdds
+            //sdds witam
         }
     }
 }
