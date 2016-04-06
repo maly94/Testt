@@ -11,7 +11,7 @@ namespace Pierwszyprogram
         static void Main(string[] args)
         {
 
-            //komentarz
+            //komentarz lalallalalala
         }
     }
 }
